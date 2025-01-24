@@ -1,0 +1,16 @@
+---
+title: "Publications"
+editor: visual
+---
+
+## Interests
+
+Statistics, Machine Learning, Data Analysis, Regression Analysis
+
+## Journal Papers
+
+38. C. Tanış and **Y. Asar**. Almost unbiased ridge estimator in Bell regression model theory and application to plastic polywood data, Statistics, 58:5, 1031–1045 (2024). <https://doi.org/10.1080/02331888.2024.2389416>
+
+<!-- -->
+
+37. C. Tanış and **Y. Asar**. Liu Type Estimator in Conway-Maxwell-Poisson Regression Model: Theory and Application, Statistics, 58:1, 65–86 (2024). <https://doi.org/10.1080/02331888.2023.2301326>

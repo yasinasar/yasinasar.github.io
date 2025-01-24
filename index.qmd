@@ -1,11 +1,49 @@
 ---
 title: "Yasin Asar"
+image: yasin.png
+resources: cv_jfrench.pdf
+about: 
+  id: yasar-heading
+  template: jolla
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:yasar@erbakan.edu.tr
+    - text: ORCID
+      icon: orcid
+      href: https://orcid.org/0000-0003-1109-8456  
+    - text: ResearchGate
+      icon: researchgate
+      href: https://www.researchgate.net/profile/Yasin-Asar?ev=hdr_xprf
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/yasinasar/    
+    - text: GitHub
+      icon: github
+      href: https://github.com/yasinasar
+    #- text: YouTube
+    #  icon: youtube
+    #  href: https://youtube.com/@jfrench
+    - text: Scholar
+      icon: google
+      href: https://scholar.google.com/citations?user=DfQzBs8AAAAJ&hl=en&oi=ao
+    - text: CV
+      icon: file-text
+      href: cv.pdf
 ---
 
-This is a Quarto website.
+:::{#yasar-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a Full Professor in the Department of Mathematics and Computer Sciences in Necmettin Erbakan University, Konya, Turkey. I have been a faculty member in the Department of Mathematics and Computer Sciences in Necmettin Erbakan University since 2011. Furthermore, I visited the Department of Mathematics and Statistics in McMaster University as a post-doctoral research fellow in 2018-2019. The main topic was censored data analysis and I have written two papers, one is regarding the progressively type-I hybrid censoring scheme and the other one was about joint censoring. 
 
-```{r}
-1 + 1
-```
+I have a PhD in Statistics. I have been studying different kinds of regression models and the problem of multicollinearity. In my Ph.D. thesis, I have studied different biased estimation methods to overcome the collinearity problem.
+
+Nowadays, I am focused on machine learning algorithms and artificial intelligence. Moreover, I like coding in R and Python but R is my favorite programming language.
+
+In the department, I mostly deal with probability, statistics, numerical analysis and data analysis courses.
+
+I married to Hülya Asar and I have two daughters, Sevdenur and Elif Reyyan.
+
+:::

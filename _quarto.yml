@@ -8,12 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      #- about.qmd
+      - Publications.qmd
 
 format:
   html:
     theme:
-      - cosmo
+      - simplex
       - brand
     css: styles.css
     toc: true
