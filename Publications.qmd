@@ -9,4 +9,4 @@ Statistics, Machine Learning, Data Analysis, Regression Analysis
 
 ## Journal Papers
 
-38. C. Tanış and **Y. Asar**. Almost unbiased ridge estimator in Bell regression model theory and application to plastic polywood data, Statistics, 58:5, 1031–1045 (2024). 
+38. C. Tanış and **Y. Asar**. Almost unbiased ridge estimator in Bell regression model theory and application to plastic polywood data, Statistics, 58:5, 1031–1045 (2024). [https://doi.org/10.1080/02331888.2024.2389416](https://doi.org/10.1080/02331888.2024.2389416).
