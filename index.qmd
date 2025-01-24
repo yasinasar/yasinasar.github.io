@@ -8,9 +8,21 @@ about:
   image-shape: rounded
   image-width: 15em
   links:
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/yasinasar/    
+    - text: GitHub
+      icon: github
+      href: https://github.com/yasinasar
+    - text: Scholar
+      icon: google
+      href: https://scholar.google.com/citations?user=DfQzBs8AAAAJ&hl=en&oi=ao
     - text: ORCID
       icon: orcid
       href: https://orcid.org/0000-0003-1109-8456  
+    - text: ResearchGate
+      icon: researchgate
+      href: https://www.researchgate.net/profile/Yasin-Asar?ev=hdr_xprf
     - text: Email
       icon: envelope
       href: mailto:yasar@erbakan.edu.tr
