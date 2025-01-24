@@ -16,3 +16,16 @@ about:
       href: cv.pdf
 ---
 
+:::{#yasar-heading}
+
+I am a Full Professor in the Department of Mathematics and Computer Sciences in Necmettin Erbakan University, Konya, Turkey. I have been a faculty member in the Department of Mathematics and Computer Sciences in Necmettin Erbakan University since 2011. Furthermore, I visited the Department of Mathematics and Statistics in McMaster University as a post-doctoral research fellow in 2018-2019. The main topic was censored data analysis and I have written two papers, one is regarding the progressively type-I hybrid censoring scheme and the other one was about joint censoring. 
+
+I have a PhD in Statistics. I have been studying different kinds of regression models and the problem of multicollinearity. In my Ph.D. thesis, I have studied different biased estimation methods to overcome the collinearity problem.
+
+Nowadays, I am focused on machine learning algorithms and artificial intelligence. Moreover, I like coding in R and Python but R is my favorite programming language.
+
+In the department, I mostly deal with probability, statistics, numerical analysis and data analysis courses.
+
+I married to Hülya Asar and I have two daughters, Sevdenur and Elif Reyyan.
+
+:::
