@@ -14,8 +14,10 @@ website:
 format:
   html:
     theme:
-      - simplex
-      - brand
+      light: flatly
+      dark: darkly
+      #- darkly
+      #- brand
     css: styles.css
     toc: true
 
