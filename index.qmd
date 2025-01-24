@@ -8,6 +8,9 @@ about:
   image-shape: rounded
   image-width: 15em
   links:
+    - text: ORCID
+      icon: orcid
+      href: https://orcid.org/0000-0003-1109-8456  
     - text: Email
       icon: envelope
       href: mailto:yasar@erbakan.edu.tr
