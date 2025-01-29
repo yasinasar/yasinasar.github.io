@@ -7,6 +7,18 @@ editor: visual
 
 Statistics, Machine Learning, Data Analysis, Regression Analysis
 
+## Book Chapters
+
+-   **Y. Asar**. Çoklu Bağlantı, Doğrusal Regresyon Analizi ve Uygulamaları NEU Press, 201-254, (2022). [Link](https://neupress.org/tr/online-satis/urunler/dogrusal-regresyon-analizi-ve-uygulamalari/802){.uri}
+
+-   **Y. Asar**, M. Erişoğlu. Liu Estimator in the Multinomial Logistic Regression Model, İstatistiksel Tekniklerle Güncel Analizler Gazi Kitabevi, 233-248, (2022). [Link](https://www.gazikitabevi.com.tr/istatistiksel-tekniklerle-guncel-analizler-dr.-ogr.-uyesi-fatma-feyza-gunduz)
+
+-   **Y. Asar**, S.E. Ahmed, and B. Yüzbaşı. Efficient and Improved Estimation Strategy in Zero- Inflated Poisson Regression Models, Proceedings of the Twelfth International Conference on Management Science and Engineering Management. Lecture Notes on Multidisciplinary Industrial Engineering Springer International Publishing, 329-342, (2019). <https://www.springer.com/us/book/9783319933504>
+
+-   B. Yüzbaşı and **Y. Asar**. Ridge Type Estimation in the Zero-Inflated Negative Binomial Regression, Econometrics: Methods and Applications, Gazi Kitabevi, pp. 93-104, (2018). [Link](https://www.gazikitabevi.com.tr/econometrics-methods-applications-kenan-terzioglu-sureyya-dal)
+
+-   **Y. Asar**. Liu-type Negative Binomial Regression: A Comparison of Recent Estimators and Applications, In Trends and Perspectives in Linear Statistical Inference, Springer, Cham., pp. 23-39, (2018). <https://www.springerprofessional.de/en/liu-type-negative-binomial-regression-a-comparison-of-recent-est/15431400>
+
 ## Journal Papers
 
 -   C. Tanış and **Y. Asar**. Almost unbiased ridge estimator in Bell regression model theory and application to plastic polywood data, Statistics, 58:5, 1031–1045 (2024). <https://doi.org/10.1080/02331888.2024.2389416>.
@@ -50,7 +62,7 @@ Statistics, Machine Learning, Data Analysis, Regression Analysis
 -   **Y. Asar**. Performance of a New Restricted Biased Estimator in Logistic Regression, Süleyman Demirel University Journal of Natural and Applied Sciences 22:1, 53-59 (2018). <https://dergipark.org.tr/en/pub/sdufenbed/issue/37055/425667>
 
 -   **Y. Asar** and J. Wu. Performance of the almost unbiased ridge-type principal component estimator in logistic regression model, Communications in Statistics – Simulation and Computation 47:10, 2925-2937 (2018). <http://www.tandfonline.com/doi/full/10.1080/03610918.2017.1364384>
-               
+
 -   J. Wu, **Y. Asar** and M. Arashi, On the restricted almost unbiased Liu estimator in the Logistic regression model, Communications in Statistics – Theory and Methods 47:18, 4389-4401 (2018). <https://www.tandfonline.com/eprint/fcZTfivvsgncKmmZRatQ/full>
 
 -   **Y. Asar** and A. Genç. A New Two-Parameter Estimator for the Poisson Regression Model, Iranian Journal of Science and Technology, Transactions A: Science 42:2, 793-803 (2018). <https://link.springer.com/article/10.1007/s40995-017-0174-4>
@@ -77,10 +89,81 @@ Statistics, Machine Learning, Data Analysis, Regression Analysis
 
 -   **Y. Asar** and A. Genç. New shrinkage parameters for the Liu-type logistic estimators, Communications in Statistics – Simulation and Computation 45:3, 1094-1103 (2016). <http://www.tandfonline.com/doi/full/10.1080/03610918.2014.995815>
 
--   A. Karaisa, **Y. Asar** and D.T. Tollu. Fine spectra of triangular triple-band matrices on sequence spaces c and lp, (0 < p < 1), Mathematical Communications 21, 65-83 (2016). <http://www.mathos.unios.hr/mc/index.php/mc/article/view/622>
+-   A. Karaisa, **Y. Asar** and D.T. Tollu. Fine spectra of triangular triple-band matrices on sequence spaces c and lp, (0 \< p \< 1), Mathematical Communications 21, 65-83 (2016). <http://www.mathos.unios.hr/mc/index.php/mc/article/view/622>
 
 -   A. Karaisa, D.T. Tollu and **Y. Asar**. Stancu type generalization of q-Favard–Szasz operators, Applied Mathematics and Computation 264, 249–257 (2015). <https://doi.org/10.1016/j.amc.2015.04.101>
 
 -   A. Karaibrahimoğlu, **Y. Asar** and A. Genç. Some new modifications of Kibria’s and Dorugade’s methods: An application to Turkish GDP data, Journal of the Association of Arab Universities for Basic and Applied Sciences 20, 89-99 (2016). <http://www.sciencedirect.com/science/article/pii/S1815385214000558>
 
 -   **Y. Asar**, A. Karaibrahimoglu and A. Genç. Modified Ridge Regression Parameters: A Comparative Monte Carlo Study, Hacettepe Journal of Mathematics and Statistics 43:5, 827-841 (2014). <http://www.hjms.hacettepe.edu.tr/uploads/7742744a-b036-456d-8367-1a3eab73e172.pdf>
+
+## Conference Proceedings
+
+-   **Y. Asar**, An Almost Unbiased Ridge Estimator in Beta Regression, 9th International IFS and Contemporary Mathematics and Engineering Conference , July 08-11, (2023).
+
+-   M. Korkmaz, **Y. Asar**, Investigating the Performance of Almost Unbiased Estimators in Gamma Regression Model, 4th International Conference on Mathematical and Related Sciences, October 22-24, (2021).
+
+-   M. Arashi, **Y. Asar**, and B. Yüzbaşı, A scaled LASSO for multicollinear situations, 13th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics 2020), Virtual Conferans, Dec 19-21, (2020).
+
+-   B. Yüzbaşı, S.E. Ahmed and **Y. Asar**, Liu Pretest and Stein-Type Shrinkage Estimation in Linear Regression Models, 11. International Statistics Days Conference, Mugla, Turkey, Oct 03-06, (2018).
+
+-   B. Yüzbaşı, **Y. Asar** and Z. Yüzbaşı, A New Quantile Penalty Estimation, 11. International Statistics Days Conference, Mugla, Turkey, Oct 03-06, (2018).
+
+-   K. Kılınç and **Y. Asar**, Performance of Linear Unified Estimator in Probit Regression,
+International Conference on Mathematical Studies and Applications, Karaman, Turkey, Oct 04-06, (2018).
+
+-   E. Öğütcüoğlu and **Y. Asar**, An Improved Estimation Method in Tobit Model, International Conference on Mathematical Studies and Applications, Karaman, Turkey, Oct 04-06, (2018).
+
+-   **Y. Asar** and B. Yüzbaşı, A Biased Estimation Method in Zero Inflated Count Models, 3rd International Conference on Computational Mathematics and Engineering Sciences, Girne, Cyprus, May 04-06, (2018).
+
+-   B. Yüzbaşı and **Y. Asar**, Quantile Correlation Based Penalty Estimator, 3rd International Conference on Computational Mathematics and Engineering Sciences, Girne, Cyprus, May
+04-06, (2018).
+
+-   B. Yüzbaşı and **Y. Asar**, Improved Biased Estimation Methods in Logistic Regression, 3rd International Conference on Computational Mathematics and Engineering Sciences, Girne, Cyprus, May 04-06, (2018).
+
+-   M.Aydın and **Y.Asar**, Öğrencilerin TIMSS2015 Matematik Başarısının Kestirilmesinde Etkili Olan Değişkenlerin İncelenmes”, International Conference On Curriculum And Instruction, Mu ̆gla, Turkey, October 26-28, (2017).
+
+-   M.S. Şık, B. Yüzbaşı and **Y. Asar**, Preliminary and Shrinkage Estimation in Quantile Regression Model with iid Errors, International Conference on Mathematical Modelling in Applied Sciences, St. Petersburg Polytechnic University, St. Petersburg, Russia, July 24-28, (2017).
+
+-   A. Demiralp, **Y. Asar** and B. Yüzbaşı, Shrinkage and Penalty Estimation in Quantile Regression Model with Autoregressive Errors, International Conference on Mathematical Modelling in Applied Sciences, St. Petersburg Polytechnic University, St. Petersburg, Russia, July 24-28, (2017).
+
+-   B. Yüzbaşı, **Y. Asar** and M. Arashi, Preliminary Test and Stein-Type Liu Estimators in Partially Linear Models: Sub-model Analysis, 61st Word Statistics Congress ISI2017, Mar- rakech, Morocco, July 16-21, (2017).
+
+-   **Y. Asar**, Linear Unified Estimator in the Zero-Inflated Poisson Regression Model, 3rd International Researchers, Statisticians and Young Statisticians Congress, Selçuk University, Konya, Turkey, May 24-26, (2017).
+
+-   M. Ş. Şık, B. Yüzbaşı, **Y. Asar**, Controlling Bias in Quantile Regression Models under Gauss- Markov Assumptions, 3rd International Researchers, Statisticians and Young Statisticians Congress, Sel ̧cuk University, Konya, Turkey, May 24-26, (2017).
+
+-   A. Demiralp, **Y. Asar**, B. Yüzbaşı, Improved Estimation Strategies in Quantile Regression Model when Errors are Non-iid, 3rd International Researchers, Statisticians and Young Statisticians Congress, Selçuk University, Konya, Turkey, May 24-26, (2017).
+
+-   **Y. Asar** and J. Wu, On the Efficiency of an Almost Unbiased Ridge Logistic Estimator,
+International Conferans on Mathematics and Engineering, Yildiz Technical University, Istanbul, Turkey, May, 10-12, (2017).
+
+-   **Y. Asar** and B. Yüzbaşı, Linear Unified Shrinkage Estimators in Linear Models, International Workshop on Mathematical Methods in Engineering, Çankaya University, Ankara, Turkey, April, 27-29, (2017).
+
+-   B. Yüzbaşı, **Y. Asar**, M. Ş. Şık, A. Demiralp, Pretest and Stein-Type Estimations in Quan- tile Regression Model, International Workshop on Mathematical Methods in Engineering, Çankaya University, Ankara, Turkey, April, 27-29, (2017).
+
+-   **Y. Asar**, On Biased Estimators in the Negative Binomial Regression Model, International Conference on Trends and Perspectives in Linear Statistical Inference, Istanbul, Turkey, August 22-25, (2016).
+
+-   **Y. Asar** and A. Genç, A New Two-parameter Ridge Estimator in the Logistic Regression Model, International Conference on Trends and Perspectives in Linear Statistical Inference, Marmara University, Istanbul, Turkey, August 22-25, (2016).
+
+-   **Y. Asar**, On a Two-Parameter Biased Estimator in the Poisson Regression Model, 2nd International Researchers-Statisticians and Young Statisticians Congress, Hacettepe University, Ankara, Turkey, May 4-8, (2016).
+
+-   A. Karaibrahimoğlu, **Y. Asar**, H. Basbozkurt and A. Genç, Comparison of zero-inflated and negative binomial regression models of number of positive lymph nodes on breast cancer patients, 9th International Statistics Congress, Eskisehir Osmangazi University, Antalya, Turkey, November 28-October 1, (2015).
+
+-   **Y. Asar**, A. Karaibrahimoğlu, H. Basbozkurt and A. Genç, Developing a Liu-type estimator for the poisson regression, 9th International Statistics Congress, Eskisehir Osmangazi University, Antalya, Turkey, November 28-October 1, (2015).
+
+-   **Y. Asar** and A. Karaibrahimoğlu, New methods to estimate the biasing parameters used in liu-type logistic regression: An application to data of bankruptcy of Turkish banks during the Asian financial crisis, International conference of Statistics and demography: the legacy of Corrado Gini, University of Padua, Treviso, Italy, September 8-11, (2015).
+
+-   A. Karaibrahimoğlu, **Y. Asar** and S. Küçükşen, Comparison of Poisson-based regression models on overdispersed discopathy data, 36th Annual Conference of the International Society for Clinical Biostatics Utrecht, Utrecht, the Netherlands, August 23–28, (2015).
+
+-   A. Karaibrahimoğlu and **Y. Asar**, An application of Liu-type logistic estimators to the population data of Sweden, 11th International Conference of Applied Statistics, Statistical Society of Slovenia, Bled, Slovenia, September 21-24, (2014).
+
+-   **Y. Asar** and A. Genç, On some biasing estimators for the logit model, 25th Nordic Conference in Mathematical Statistics NORDSTAT2014, University of Turku, Turku, Finland, June 2-6, (2014).
+
+-   **Y. Asar**, A. Karaibrahimoğlu, H. Basbozkurt and A. Genç, On Liu-type logistic estimators, 9th International Statistics Day Symposium – ISDS2014, Selcuk University, Antalya, Turkey, May 10-14, (2014).
+
+-   A. Karaibrahimoglu, **Y. Asar**, H. Basbozkurt and A. Genç, Pattern extraction of breast cancer data using association rule mining, 9th International Statistics Day Symposium – ISDS2014, Selcuk University, Antalya, Turkey, May 10-14, (2014).
+
+-   **Y. Asar**, A. Karaibrahimoğlu and A. Genç, A Comparison of the recent ridge parameters in modeling gdp of Turkey, 10th International Conference of Applied Statistics Statistical Society of Slovenia, Bled, Slovenia, September 22-25, (2013).
+
+-   **Y. Asar**, H. Basbozkurt, S. Akogul and A. Genç, Statistical modelling of seismicity of Van region”, 8th İnternational Symposium of Statistics Anadolu University, Eskisehir, Turkey, October 11-13, (2012).
