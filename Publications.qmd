@@ -23,7 +23,7 @@ Statistics, Machine Learning, Data Analysis, Regression Analysis
 -   **Y. Asar**. Liu-type Negative Binomial Regression: A Comparison of Recent Estimators and Applications, In Trends and Perspectives in Linear Statistical Inference, Springer, Cham., pp. 23-39, (2018). <https://www.springerprofessional.de/en/liu-type-negative-binomial-regression-a-comparison-of-recent-est/15431400>
 
 ## Journal Papers
--   Reza Arabi Belaghi, **Yasin Asar**, Rolf LarssonExploring Discrete Factor Analysis with the discFA Package in R.  [Link](https://www.arxiv.org/abs/2506.13309).
+-   Reza Arabi Belaghi, **Yasin Asar**, Rolf Larsson. Exploring Discrete Factor Analysis with the discFA Package in R.  [Link](https://www.arxiv.org/abs/2506.13309).
 
 -   C. Tanış and **Y. Asar**. Almost unbiased ridge estimator in Bell regression model theory and application to plastic polywood data, Statistics, 58:5, 1031–1045 (2024). <https://doi.org/10.1080/02331888.2024.2389416>.
 
