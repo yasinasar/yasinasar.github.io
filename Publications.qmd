@@ -9,7 +9,7 @@ Statistics, Machine Learning, Data Analysis, Regression Analysis
 
 ## Software
 
--  **Yasin Asar**, Reza A. Belaghi, Rolf Larsson. discFA: Discrete Factor Analysis, [Link](https://cran.r-project.org/web/packages/discFA/index.html)
+-   **Yasin Asar**, Reza A. Belaghi, Rolf Larsson. discFA: Discrete Factor Analysis, [Link](https://cran.r-project.org/web/packages/discFA/index.html)
 
 ## Book Chapters
 
@@ -25,7 +25,7 @@ Statistics, Machine Learning, Data Analysis, Regression Analysis
 
 ## Journal Papers
 
--   Reza Arabi Belaghi, **Yasin Asar**, Rolf Larsson. Exploring Discrete Factor Analysis with the discFA Package in R.  [Link](https://www.arxiv.org/abs/2506.13309).
+-   Reza Arabi Belaghi, **Yasin Asar**, Rolf Larsson. 111333Exploring Discrete Factor Analysis with the discFA Package in R. [Link](https://www.arxiv.org/abs/2506.13309).
 
 -   C. Tanış and **Y. Asar**. Almost Unbiased Liu Type Estimator in Bell Regression Model: Theory, Simulation and Application. [Link](https://arxiv.org/abs/2505.20946)
 
@@ -117,15 +117,13 @@ Statistics, Machine Learning, Data Analysis, Regression Analysis
 
 -   B. Yüzbaşı, **Y. Asar** and Z. Yüzbaşı, A New Quantile Penalty Estimation, 11. International Statistics Days Conference, Mugla, Turkey, Oct 03-06, (2018).
 
--   K. Kılınç and **Y. Asar**, Performance of Linear Unified Estimator in Probit Regression,
-International Conference on Mathematical Studies and Applications, Karaman, Turkey, Oct 04-06, (2018).
+-   K. Kılınç and **Y. Asar**, Performance of Linear Unified Estimator in Probit Regression, International Conference on Mathematical Studies and Applications, Karaman, Turkey, Oct 04-06, (2018).
 
 -   E. Öğütcüoğlu and **Y. Asar**, An Improved Estimation Method in Tobit Model, International Conference on Mathematical Studies and Applications, Karaman, Turkey, Oct 04-06, (2018).
 
 -   **Y. Asar** and B. Yüzbaşı, A Biased Estimation Method in Zero Inflated Count Models, 3rd International Conference on Computational Mathematics and Engineering Sciences, Girne, Cyprus, May 04-06, (2018).
 
--   B. Yüzbaşı and **Y. Asar**, Quantile Correlation Based Penalty Estimator, 3rd International Conference on Computational Mathematics and Engineering Sciences, Girne, Cyprus, May
-04-06, (2018).
+-   B. Yüzbaşı and **Y. Asar**, Quantile Correlation Based Penalty Estimator, 3rd International Conference on Computational Mathematics and Engineering Sciences, Girne, Cyprus, May 04-06, (2018).
 
 -   B. Yüzbaşı and **Y. Asar**, Improved Biased Estimation Methods in Logistic Regression, 3rd International Conference on Computational Mathematics and Engineering Sciences, Girne, Cyprus, May 04-06, (2018).
 
@@ -143,8 +141,7 @@ International Conference on Mathematical Studies and Applications, Karaman, Turk
 
 -   A. Demiralp, **Y. Asar**, B. Yüzbaşı, Improved Estimation Strategies in Quantile Regression Model when Errors are Non-iid, 3rd International Researchers, Statisticians and Young Statisticians Congress, Selçuk University, Konya, Turkey, May 24-26, (2017).
 
--   **Y. Asar** and J. Wu, On the Efficiency of an Almost Unbiased Ridge Logistic Estimator,
-International Conferans on Mathematics and Engineering, Yildiz Technical University, Istanbul, Turkey, May, 10-12, (2017).
+-   **Y. Asar** and J. Wu, On the Efficiency of an Almost Unbiased Ridge Logistic Estimator, International Conferans on Mathematics and Engineering, Yildiz Technical University, Istanbul, Turkey, May, 10-12, (2017).
 
 -   **Y. Asar** and B. Yüzbaşı, Linear Unified Shrinkage Estimators in Linear Models, International Workshop on Mathematical Methods in Engineering, Çankaya University, Ankara, Turkey, April, 27-29, (2017).
 
