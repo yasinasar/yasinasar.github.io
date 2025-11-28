@@ -11,23 +11,11 @@ Statistics, Machine Learning, Data Analysis, Regression Analysis
 
 -   **Yasin Asar**, Reza A. Belaghi, Rolf Larsson. discFA: Discrete Factor Analysis, [Link](https://cran.r-project.org/web/packages/discFA/index.html)
 
-## Book Chapters
-
--   **Y. Asar**. Çoklu Bağlantı, Doğrusal Regresyon Analizi ve Uygulamaları NEU Press, 201-254, (2022). [Link](https://neupress.org/tr/online-satis/urunler/dogrusal-regresyon-analizi-ve-uygulamalari/802){.uri}
-
--   **Y. Asar**, M. Erişoğlu. Liu Estimator in the Multinomial Logistic Regression Model, İstatistiksel Tekniklerle Güncel Analizler Gazi Kitabevi, 233-248, (2022). [Link](https://www.gazikitabevi.com.tr/istatistiksel-tekniklerle-guncel-analizler-dr.-ogr.-uyesi-fatma-feyza-gunduz)
-
--   **Y. Asar**, S.E. Ahmed, and B. Yüzbaşı. Efficient and Improved Estimation Strategy in Zero- Inflated Poisson Regression Models, Proceedings of the Twelfth International Conference on Management Science and Engineering Management. Lecture Notes on Multidisciplinary Industrial Engineering Springer International Publishing, 329-342, (2019). <https://www.springer.com/us/book/9783319933504>
-
--   B. Yüzbaşı and **Y. Asar**. Ridge Type Estimation in the Zero-Inflated Negative Binomial Regression, Econometrics: Methods and Applications, Gazi Kitabevi, pp. 93-104, (2018). [Link](https://www.gazikitabevi.com.tr/econometrics-methods-applications-kenan-terzioglu-sureyya-dal)
-
--   **Y. Asar**. Liu-type Negative Binomial Regression: A Comparison of Recent Estimators and Applications, In Trends and Perspectives in Linear Statistical Inference, Springer, Cham., pp. 23-39, (2018). <https://www.springerprofessional.de/en/liu-type-negative-binomial-regression-a-comparison-of-recent-est/15431400>
-
 ## Journal Papers
 
 -   Reza Arabi Belaghi, **Yasin Asar**, Rolf Larsson. Exploring Discrete Factor Analysis with the discFA Package in R. [Link](https://www.arxiv.org/abs/2506.13309).
 
--   C. Tanış and **Y. Asar**. Almost Unbiased Liu Type Estimator in Bell Regression Model: Theory, Simulation and Application. <https://doi.org/10.1080/02331888.2025.2586679>.
+-   C. Tanış and **Y. Asar**. Almost Unbiased Liu Type Estimator in Bell Regression Model: Theory, Simulation and Application, Statistics, (2025) <https://doi.org/10.1080/02331888.2025.2586679>.
 
 -   C. Tanış and **Y. Asar**. Almost unbiased ridge estimator in Bell regression model theory and application to plastic polywood data, Statistics, 58:5, 1031–1045 (2024). <https://doi.org/10.1080/02331888.2024.2389416>.
 
@@ -104,6 +92,18 @@ Statistics, Machine Learning, Data Analysis, Regression Analysis
 -   A. Karaibrahimoğlu, **Y. Asar** and A. Genç. Some new modifications of Kibria’s and Dorugade’s methods: An application to Turkish GDP data, Journal of the Association of Arab Universities for Basic and Applied Sciences 20, 89-99 (2016). <http://www.sciencedirect.com/science/article/pii/S1815385214000558>
 
 -   **Y. Asar**, A. Karaibrahimoglu and A. Genç. Modified Ridge Regression Parameters: A Comparative Monte Carlo Study, Hacettepe Journal of Mathematics and Statistics 43:5, 827-841 (2014). <http://www.hjms.hacettepe.edu.tr/uploads/7742744a-b036-456d-8367-1a3eab73e172.pdf>
+
+## Book Chapters
+
+-   **Y. Asar**. Çoklu Bağlantı, Doğrusal Regresyon Analizi ve Uygulamaları NEU Press, 201-254, (2022). [Link](https://neupress.org/tr/online-satis/urunler/dogrusal-regresyon-analizi-ve-uygulamalari/802){.uri}
+
+-   **Y. Asar**, M. Erişoğlu. Liu Estimator in the Multinomial Logistic Regression Model, İstatistiksel Tekniklerle Güncel Analizler Gazi Kitabevi, 233-248, (2022). [Link](https://www.gazikitabevi.com.tr/istatistiksel-tekniklerle-guncel-analizler-dr.-ogr.-uyesi-fatma-feyza-gunduz)
+
+-   **Y. Asar**, S.E. Ahmed, and B. Yüzbaşı. Efficient and Improved Estimation Strategy in Zero- Inflated Poisson Regression Models, Proceedings of the Twelfth International Conference on Management Science and Engineering Management. Lecture Notes on Multidisciplinary Industrial Engineering Springer International Publishing, 329-342, (2019). <https://www.springer.com/us/book/9783319933504>
+
+-   B. Yüzbaşı and **Y. Asar**. Ridge Type Estimation in the Zero-Inflated Negative Binomial Regression, Econometrics: Methods and Applications, Gazi Kitabevi, pp. 93-104, (2018). [Link](https://www.gazikitabevi.com.tr/econometrics-methods-applications-kenan-terzioglu-sureyya-dal)
+
+-   **Y. Asar**. Liu-type Negative Binomial Regression: A Comparison of Recent Estimators and Applications, In Trends and Perspectives in Linear Statistical Inference, Springer, Cham., pp. 23-39, (2018). <https://www.springerprofessional.de/en/liu-type-negative-binomial-regression-a-comparison-of-recent-est/15431400>
 
 ## Conference Proceedings
 
