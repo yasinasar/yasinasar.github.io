@@ -25,9 +25,9 @@ Statistics, Machine Learning, Data Analysis, Regression Analysis
 
 ## Journal Papers
 
--   Reza Arabi Belaghi, **Yasin Asar**, Rolf Larsson. 111333Exploring Discrete Factor Analysis with the discFA Package in R. [Link](https://www.arxiv.org/abs/2506.13309).
+-   Reza Arabi Belaghi, **Yasin Asar**, Rolf Larsson. Exploring Discrete Factor Analysis with the discFA Package in R. [Link](https://www.arxiv.org/abs/2506.13309).
 
--   C. Tanış and **Y. Asar**. Almost Unbiased Liu Type Estimator in Bell Regression Model: Theory, Simulation and Application. [Link](https://arxiv.org/abs/2505.20946)
+-   C. Tanış and **Y. Asar**. Almost Unbiased Liu Type Estimator in Bell Regression Model: Theory, Simulation and Application. [Link](https://doi.org/10.1080/02331888.2025.2586679)
 
 -   C. Tanış and **Y. Asar**. Almost unbiased ridge estimator in Bell regression model theory and application to plastic polywood data, Statistics, 58:5, 1031–1045 (2024). <https://doi.org/10.1080/02331888.2024.2389416>.
 
