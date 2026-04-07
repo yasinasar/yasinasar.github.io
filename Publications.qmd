@@ -12,6 +12,7 @@ Statistics, Machine Learning, Data Analysis, Regression Analysis
 -   **Yasin Asar**, Reza A. Belaghi, Rolf Larsson. discFA: Discrete Factor Analysis, [Link](https://cran.r-project.org/web/packages/discFA/index.html)
 
 ## Journal Papers
+-   C. Tanış and **Y. Asar**. Almost unbiased Liu estimator in Bell regression model, Communications in Statistics – Simulation and Computation <https://www.tandfonline.com/doi/epdf/10.1080/03610918.2026.2648869?needAccess=true>.
 
 -   Reza Arabi Belaghi, **Yasin Asar**, Rolf Larsson. Exploring Discrete Factor Analysis with the discFA Package in R. [Link](https://www.arxiv.org/abs/2506.13309).
 
