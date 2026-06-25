@@ -16,7 +16,7 @@ Statistics, Machine Learning, Data Analysis, Regression Analysis
 
 -   C. Tanış and **Y. Asar**. Almost unbiased Liu estimator in Bell regression model, Communications in Statistics – Simulation and Computation <https://www.tandfonline.com/doi/full/10.1080/03610918.2026.2648869>.
 
--   Reza Arabi Belaghi, **Yasin Asar**, Rolf Larsson. Exploring Discrete Factor Analysis with the discFA Package in R. [Link](https://www.arxiv.org/abs/2506.13309).
+-   R. A. Belaghi, **Yasin Asar**, Rolf Larsson. Exploring Discrete Factor Analysis with the discFA Package in R. [Link](https://www.arxiv.org/abs/2506.13309).
 
 -   C. Tanış and **Y. Asar**. Almost Unbiased Liu Type Estimator in Bell Regression Model: Theory, Simulation and Application, Statistics, (2025) <https://doi.org/10.1080/02331888.2025.2586679>.
 
