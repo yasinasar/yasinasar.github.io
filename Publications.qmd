@@ -12,6 +12,8 @@ Statistics, Machine Learning, Data Analysis, Regression Analysis
 -   **Yasin Asar**, Reza A. Belaghi, Rolf Larsson. discFA: Discrete Factor Analysis, [Link](https://cran.r-project.org/web/packages/discFA/index.html)
 
 ## Journal Papers
+-   R. A. Belaghi, S. E. Ahmed, **Y. Asar** and A. Hussein. Post-shrinkage and machine learning strategies in high-dimensional beta regression: application in econometrics and health care data, Communications in Statistics – Simulation and Computation <https://www.tandfonline.com/eprint/RPBPCUNRTUAVVIESSAFM/full?target=10.1080/03610918.2026.2666875>.
+
 -   C. Tanış and **Y. Asar**. Almost unbiased Liu estimator in Bell regression model, Communications in Statistics – Simulation and Computation <https://www.tandfonline.com/doi/full/10.1080/03610918.2026.2648869>.
 
 -   Reza Arabi Belaghi, **Yasin Asar**, Rolf Larsson. Exploring Discrete Factor Analysis with the discFA Package in R. [Link](https://www.arxiv.org/abs/2506.13309).
